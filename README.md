@@ -3,6 +3,17 @@ Is activation steering more powerful than prompting at mitigating deception in s
 
 # Motivation
 
+NOTE to BH:
+- people will say "this is expected bx, model is just trying it's
+    hardest to be helpful"
+- ideally we find something more egregiously evil
+- I also like Owaine Evans's "run a survey before releasing
+    results to see if ppl would find them surprising" approach
+- and we should be pre-registering predictions as well -- it's so
+    tempting to just make this turn out however we want
+    - but we should seek truth, not the story that we want to
+        tell
+
 There is some pretty compelling evidence that often LLMs care
 more about "seeming helpful" than about being honest.
 
