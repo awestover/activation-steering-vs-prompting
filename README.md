@@ -3,6 +3,11 @@ Is activation steering more powerful than prompting at mitigating deception in s
 
 git clone https://github.com/awestover/activation-steering-vs-prompting
 
+![prompt](ss1.png)
+![response](ss2.png)
+
+> (Note that the actual answer is 941 -- this GPT doesn't actually have the ability to run python code, so it just decides to lie and say that it did and lie that this is the answer.)
+
 # Motivation
 
 NOTE to BH:
