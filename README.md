@@ -124,3 +124,15 @@ Intervene on CoT + output
 Intervene on output 
 
 
+# Next steps
+
+1. Is qwq32b notprev smart enough to do an interesting exp on?
+  - if yes, set up hooks with it
+  - if no:
+    - what hardware do we need to run (quantized) bigger model
+    - is that bigger model smart enough?
+      - setup hooks + steering with that dude
+2. Why is Alek steering sus
+3. Can we do sae things?
+
+
